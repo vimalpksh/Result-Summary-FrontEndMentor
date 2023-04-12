@@ -14,7 +14,7 @@ This is my solution for the given challenge (https://www.frontendmentor.io/chall
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/vimalpksh/Result-Summary-FrontEndMentor/blob/main/SS.PNG?raw=true)
 
 ## Demo
 
